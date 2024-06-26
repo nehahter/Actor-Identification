@@ -1,4 +1,4 @@
-![](html.png)
+![](html.jpg)
 
 In this data science and machine learning project, we classify Indian movie actors. We restrict classification to only 5 people,
 1) Aishwarya Rai
